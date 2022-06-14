@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="972ace11-2893-439d-839a-e633cf24fd0c" name="Changes" comment="first_commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jpb/persistence-units.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orient/crudlombokspr/CrudlomboksprApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orient/crudlombokspr/config/SpringFoxConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orient/crudlombokspr/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orient/crudlombokspr/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orient/crudlombokspr/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orient/crudlombokspr/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orient/crudlombokspr/service/Impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orient/crudlombokspr/CrudlomboksprApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="29wN28wPcYOYj7T2iFibKMosIjw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CrudlomboksprApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crudlombokspr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.orient.crudlombokspr.CrudlomboksprApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="972ace11-2893-439d-839a-e633cf24fd0c" name="Changes" comment="" />
+      <created>1654019978666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654019978666</updated>
+      <workItem from="1654019979889" duration="38000" />
+      <workItem from="1654020230009" duration="30000" />
+      <workItem from="1654020296940" duration="341000" />
+      <workItem from="1654020672369" duration="183000" />
+      <workItem from="1654020888464" duration="127000" />
+      <workItem from="1654021026953" duration="54000" />
+      <workItem from="1654021194845" duration="147000" />
+      <workItem from="1654021390411" duration="18000" />
+      <workItem from="1654021422431" duration="119000" />
+      <workItem from="1654021621177" duration="167000" />
+      <workItem from="1654021798780" duration="863000" />
+      <workItem from="1654022700594" duration="585000" />
+      <workItem from="1654023429973" duration="343000" />
+      <workItem from="1654023851509" duration="136000" />
+      <workItem from="1654024004137" duration="288000" />
+      <workItem from="1654024373224" duration="57000" />
+      <workItem from="1654024522558" duration="43000" />
+      <workItem from="1654024587873" duration="56000" />
+      <workItem from="1654024667734" duration="59000" />
+      <workItem from="1654024746276" duration="68000" />
+      <workItem from="1654027615621" duration="52000" />
+      <workItem from="1654027828004" duration="25000" />
+      <workItem from="1654027877385" duration="22000" />
+      <workItem from="1654027932039" duration="3849000" />
+      <workItem from="1654032001920" duration="881000" />
+      <workItem from="1654033018553" duration="797000" />
+      <workItem from="1654033902179" duration="523000" />
+      <workItem from="1654034472915" duration="45000" />
+      <workItem from="1654034547723" duration="300000" />
+      <workItem from="1654103093181" duration="4596000" />
+      <workItem from="1654186366479" duration="729000" />
+      <workItem from="1654187167978" duration="154000" />
+      <workItem from="1654187370089" duration="8000" />
+      <workItem from="1654187390162" duration="147000" />
+      <workItem from="1654187550120" duration="41000" />
+      <workItem from="1654187621924" duration="871000" />
+      <workItem from="1654188532184" duration="510000" />
+      <workItem from="1654189127164" duration="1012000" />
+      <workItem from="1654192423263" duration="91000" />
+      <workItem from="1654192785394" duration="18000" />
+      <workItem from="1654282527628" duration="4000" />
+      <workItem from="1654282601781" duration="39000" />
+      <workItem from="1654282782152" duration="23000" />
+      <workItem from="1654282903530" duration="21000" />
+      <workItem from="1654346066024" duration="3000" />
+      <workItem from="1655112862479" duration="679000" />
+      <workItem from="1655126668808" duration="2416000" />
+      <workItem from="1655129526711" duration="2102000" />
+      <workItem from="1655131683814" duration="835000" />
+      <workItem from="1655132842211" duration="11000" />
+      <workItem from="1655156243654" duration="108000" />
+      <workItem from="1655156383419" duration="731000" />
+      <workItem from="1655157273527" duration="107000" />
+      <workItem from="1655157440151" duration="6000" />
+      <workItem from="1655157511173" duration="1324000" />
+      <workItem from="1655158870837" duration="32000" />
+      <workItem from="1655158916442" duration="1599000" />
+      <workItem from="1655160574782" duration="279000" />
+      <workItem from="1655194939544" duration="3138000" />
+      <workItem from="1655198333812" duration="982000" />
+      <workItem from="1655199376835" duration="3190000" />
+      <workItem from="1655205129211" duration="8000" />
+      <workItem from="1655210894109" duration="47000" />
+      <workItem from="1655212186141" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="e5d7af1a-cb23-4388-828d-bc210ecb63ee">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/UseR/Desktop/myJavaProjects/crudlombokspr/src/main/java/com/orient/crudlombokspr/controller" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="e5d7af1a-cb23-4388-828d-bc210ecb63ee" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first_commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
